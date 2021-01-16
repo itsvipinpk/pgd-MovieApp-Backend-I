@@ -29,7 +29,7 @@ import upgrad.movieapp.service.movie.model.BookingSearchQuery;
 import upgrad.movieapp.service.movie.model.BookingStatus;
 import upgrad.movieapp.service.user.business.UserService;
 import upgrad.movieapp.service.user.entity.UserEntity;
-
+//comment for autobuild trigger
 @Service
 public class BookingServiceImpl implements BookingService {
 
